@@ -1,16 +1,12 @@
-# shreemad_bhagvat_geeta_app
+# Shrimad Bhagvad Gita App 
 
-A new Flutter project.
+<p>
+  <img src="https://github.com/user-attachments/assets/5eb12cb6-af65-40ff-af4f-75cc557f3354"height="35%" width="22%">
+    <img src="https://github.com/user-attachments/assets/95f4a521-d5b7-482d-90ce-6dae7e4a2ade"height="35%" width="22%">
+   <img src="https://github.com/user-attachments/assets/3d56c276-7074-429c-bc3c-ac7bde830a17"height="35%" width="22%">
+    <img src="https://github.com/user-attachments/assets/83efae07-f54f-4ed1-acb9-904a44abe5f6"height="35%" width="22%">
+     <img src="https://github.com/user-attachments/assets/2ee12bd9-0f67-4f52-a7a7-6b3202385b0e"height="35%" width="22%">
+    
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
