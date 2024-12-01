@@ -25,13 +25,16 @@ class SplashScreen extends StatelessWidget {
         alignment: Alignment.center,
         decoration: BoxDecoration(
             image: DecorationImage(
-                image: const AssetImage('assets/images/sbg_splash.jpg'),
+                image: const AssetImage('assets/images/logo.jpg'),
                 fit: BoxFit.values.first),
             borderRadius: BorderRadius.circular(15)),
-        child: const Text(
-          'Bhagwad gita',
-          style: TextStyle(
-              color: Colors.white, fontSize: 40, fontWeight: FontWeight.bold),
+        child: Padding(
+          padding: const EdgeInsets.only(top: 600),
+          child: const Text(
+            'श्रीमद्भगवद्गीता',
+            style: TextStyle(
+                color: Colors.white, fontSize: 40, fontWeight: FontWeight.bold),
+          ),
         ),
       ),
     );
