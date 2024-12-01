@@ -37,7 +37,8 @@ class ShlokPreviewPage extends StatelessWidget {
     double w = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color(0xff320D0A),
+        backgroundColor: Colors.amber,
+        centerTitle: true,
         leading: IconButton(
           icon: const Icon(
             Icons.arrow_back,
@@ -47,7 +48,6 @@ class ShlokPreviewPage extends StatelessWidget {
             Navigator.pop(context);
           },
         ),
-        centerTitle: true,
         title: Text(
           (shlokProviderTrue.selectedLanguage == 'Sanskrit')
               ? bhagwadGitaProvider
@@ -98,7 +98,7 @@ class ShlokPreviewPage extends StatelessWidget {
             // color: Colors.red
             image: DecorationImage(
               fit: BoxFit.fill,
-              image: AssetImage('assets/images/bhagwadGita.jpg'),
+              image: AssetImage('assets/images/basuri.jpg'),
             ),
           ),
           child: Column(
