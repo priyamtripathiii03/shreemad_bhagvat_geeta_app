@@ -27,3 +27,7 @@ Embark on a spiritual journey and connect with the teachings of the Gita, bringi
 </p>
 
 
+
+https://github.com/user-attachments/assets/1da8c0e7-120c-4a48-9535-810c63164f64
+
+
